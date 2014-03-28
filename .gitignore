@@ -1,0 +1,13 @@
+#过滤文件
+*.pcd
+tags
+
+#过滤文件夹
+gtest/
+devel/
+build/
+CMakeFiles/
+test_results/
+tmp/
+catkin_generated/
+catkin/
